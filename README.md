@@ -1,5 +1,7 @@
 This is a simple chat component for nextjs.
 
+![index](/public/image.png)
+
 ## Getting Started
 
 First, run the development server:
